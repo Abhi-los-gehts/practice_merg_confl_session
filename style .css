@@ -12,3 +12,8 @@ button{
     height: 50px;
    
 }
+
+footer{
+    background-color: lightgreen;
+    border-radius: 20px ;
+}
