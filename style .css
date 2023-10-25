@@ -4,3 +4,11 @@ body{
 }
 
 
+button{
+    background-color: red;
+    color: aliceblue;
+    border: 1px solid green;
+    width: 20%;
+    height: 50px;
+   
+}
